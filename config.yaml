@@ -1,4 +1,4 @@
-name: workspace-setup
+name: catapault
 urls:
   - url: https://www.tutorialspoint.com/yaml/yaml_quick_guide.htm
     browser: safari

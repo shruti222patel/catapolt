@@ -16,7 +16,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 package main
 
-import "shruti222patel/workspace-setup/cmd"
+import "shruti222patel/catapault/cmd"
 
 func main() {
 	cmd.Execute()

@@ -1,4 +1,4 @@
-# Workspace Setup
+# Catapault
 Automates setting up different workspaces for different projects.
 
 ## Setup
@@ -8,4 +8,8 @@ Automates setting up different workspaces for different projects.
 4. `go mod download`
 
 ## Run
-`go run main.go workspace-setup` -- sets up workspace based on the `config.yaml` for this project.
+`go run main.go catapault` -- sets up workspace based on the `config.yaml` for this project.
+
+## Release
+1. Install `brew install goreleaser`
+2. 

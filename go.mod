@@ -1,4 +1,4 @@
-module github.com/shruti222patel/workspace-setup
+module github.com/shruti222patel/catapault
 
 go 1.17
 

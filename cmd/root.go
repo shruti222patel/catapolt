@@ -39,7 +39,7 @@ const APP_KEY = "app"
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "workspace-setup",
+	Use:   "catapault",
 	Short: "Automates setting up different workspaces for different projects.",
 	Long: `Automates setting up different workspaces for different projects. 
 	Setup inludes opening applications/files/urls/etc. and running shell commands.`,
