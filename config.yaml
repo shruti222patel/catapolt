@@ -1,0 +1,9 @@
+name: workspace-setup
+urls:
+  - url: https://www.tutorialspoint.com/yaml/yaml_quick_guide.htm
+    browser: safari
+apps:
+  - app: code
+    args: ./
+shell_cmds:
+  - cmd: ['open', './']
