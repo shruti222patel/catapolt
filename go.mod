@@ -3,6 +3,7 @@ module github.com/shruti222patel/workspace-setup
 go 1.17
 
 require (
+	github.com/go-cmd/cmd v1.3.1
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/viper v1.8.1
@@ -10,7 +11,6 @@ require (
 
 require (
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
-	github.com/go-cmd/cmd v1.3.1 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
