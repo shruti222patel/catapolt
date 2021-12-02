@@ -1,4 +1,4 @@
-module shruti222patel/workspace-setup
+module github.com/shruti222patel/workspace-setup
 
 go 1.17
 
